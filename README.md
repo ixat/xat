@@ -11,8 +11,8 @@ Xat private server source
 3- Edit server.php with your private configuration.<br>
 4- Edit mysql.php ; mysql2.php ; mysql3.php<br>
 5- Acces to your web by http://localhost/ (This can vary)<br>
-6- If you can view the page without any error proceed to the next step, if you get any error try again the steps.
-7- Now, create an account and drop the server.php to the php.exe (This .exe is located on the folder php5)
+6- If you can view the page without any error proceed to the next step, if you get any error try again the steps.<br>
+7- Now, create an account and drop the server.php to the php.exe (This .exe is located on the folder php5)<br>
 ==========
 <h2>Chat.swf edit</h2><br>
 ...
